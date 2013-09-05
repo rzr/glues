@@ -5,6 +5,9 @@ add_definitions(-DLIBRARYBUILD -D__USE_SDL_GLES__=1)
 
 include_directories(include)
 include_directories(source)
+include_directories(source/libnurbs/internals)
+include_directories(source/libnurbs/interface)
+include_directories(source/libnurbs/nurbtess)
 
 aux_source_directory(source SRC)
 aux_source_directory(source/libtess TESS_SRC)
