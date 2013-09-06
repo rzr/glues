@@ -2,4 +2,4 @@ glues (0.0.0-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
- -- unknown <rzr@unknown>  Fri, 06 Sep 2013 09:21:57 +0200
+ -- Philippe Coval <rzr@gna.org>  Fri, 06 Sep 2013 09:21:57 +0200
