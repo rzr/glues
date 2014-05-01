@@ -1,7 +1,9 @@
 Source: glues
 Priority: extra
 Maintainer: Philippe Coval <rzr@gna.org>
-Build-Depends: debhelper (>= 7), cmake
+Build-Depends: debhelper (>= 7),
+  cmake,
+  libgles1-mesa-dev
 Standards-Version: 3.8.4
 Section: libs
 Homepage: https://github.com/harmattan/glues
