@@ -1,3 +1,21 @@
+glues (0.0.20140501-0ubuntu0~rzr0) saucy; urgency=medium
+
+  * wip: http://rzr.online.fr/q/snapshot#glues
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 01 May 2014 17:48:14 +0200
+
+glues (0.0.20140501-0ubuntu0~rzr0) saucy; urgency=medium
+
+  * WIP: http://rzr.online.fr/q/snapshot#glues
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 01 May 2014 17:48:14 +0200
+
+glues (0.0.0-0) UNRELEASED; urgency=medium
+
+  * TODO: remove on release
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 01 May 2014 17:48:14 +0200
+
 glues (0.0.0-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
